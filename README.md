@@ -41,6 +41,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Secret SWAP and Stake Tutorial using Mathwallet (ENG to SCRT)](https://www.youtube.com/watch?v=tXxQqzzKGWE)
+- [Secret Swap and Stake tutorial using Keplr (ENG to SCRT)](https://www.youtube.com/watch?v=a--ZTAiN2RQ)
 <!-- YOUTUBE:END -->
 
 ---
