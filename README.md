@@ -48,6 +48,6 @@
 
 [website]: https://github.com/mohammedpatla
 [twitter]: https://twitter.com/mohammedpatla
-[youtube]: https://youtube.com/securesecrets.org
+[youtube]: https://www.youtube.com/channel/UCItG0cq0YYJAOd5CHdZ2J6Q
 [instagram]: https://instagram.com/mohammedtaherpatla
 [linkedin]: https://linkedin.com/in/mohammedpatla
