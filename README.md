@@ -38,6 +38,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [VirtualBox Secretcli Install Guide: Interact with the Secret Network](https://www.youtube.com/watch?v=6rImGyS0__w)
 - [Secret SWAP and Stake Tutorial using Mathwallet (ENG to SCRT)](https://www.youtube.com/watch?v=tXxQqzzKGWE)
 - [Secret Swap and Stake tutorial using Keplr (ENG to SCRT)](https://www.youtube.com/watch?v=a--ZTAiN2RQ)
 <!-- YOUTUBE:END -->
