@@ -38,6 +38,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Community Unveiled: Meeting the Secret Validators - Episode #2 🛹 Stake or Die! 🐝🐝🐝](https://www.youtube.com/watch?v=ZN_cWba7M14)
 - [Community Unveiled: Meeting the Secret Validators - Episode #1 SecureSecrets](https://www.youtube.com/watch?v=hOJ5cmxNMIk)
 - [VirtualBox Secretcli Install Guide: Interact with the Secret Network](https://www.youtube.com/watch?v=6rImGyS0__w)
 - [Secret SWAP and Stake Tutorial using Mathwallet (ENG to SCRT)](https://www.youtube.com/watch?v=tXxQqzzKGWE)
