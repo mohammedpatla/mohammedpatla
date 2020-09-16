@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Secret Network Annual Delegator ROI Calculation Tutorial](https://www.youtube.com/watch?v=fH-OEry1KXY)
 - [Secret Chats #1 Commission Rate Change](https://www.youtube.com/watch?v=6P-zhoddpXE)
 - [Secret Contract Development Guide on Secret Network.](https://www.youtube.com/watch?v=PjmuxOSmedY)
 - [Privacy - A Human Right](https://www.youtube.com/watch?v=dJerT43thas)
 - [Create a Secret Network Education Project - Education Committee Tutorial](https://www.youtube.com/watch?v=jYTIHLHeMh0)
-- [Education Committee Proposal](https://www.youtube.com/watch?v=0T-r0q-DJvE)
 <!-- YOUTUBE:END -->
 
 ---
