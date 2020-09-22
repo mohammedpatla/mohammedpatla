@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Secret Help: 60 seconds to grow the network #2 Twitter List](https://www.youtube.com/watch?v=KU913DbeVSg)
 - [Secret Network Apparel Preview: Secret Apparel w/Secure Secrets](https://www.youtube.com/watch?v=d2Etl2h2kdc)
 - [Secret Network Annual Delegator ROI Calculation Tutorial](https://www.youtube.com/watch?v=fH-OEry1KXY)
 - [Secret Chats #1 Commission Rate Change](https://www.youtube.com/watch?v=6P-zhoddpXE)
 - [Secret Contract Development Guide on Secret Network.](https://www.youtube.com/watch?v=PjmuxOSmedY)
-- [Privacy - A Human Right](https://www.youtube.com/watch?v=dJerT43thas)
 <!-- YOUTUBE:END -->
 
 ---
