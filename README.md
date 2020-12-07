@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How Does Staking Secure the Network & Why Are You Awarded For Staking? (PoS Explained Simply)](https://www.youtube.com/watch?v=yNJGj3_1JTA)
 - [Community Unveiled: Meeting the Secret Validators #6 Citadel.One](https://www.youtube.com/watch?v=3h0WnS3ovzU)
 - [Community Unveiled:  Meeting the Secret Validators #5 Chain Of Secrets](https://www.youtube.com/watch?v=sRaSnqVlIJM)
 - [Secret Network: Education Committee Lead and Charter Introduction](https://www.youtube.com/watch?v=EsVuVrm0AJg)
 - [Secret Tokens Explained - Secret Network & Wrapped Token Privacy](https://www.youtube.com/watch?v=fkgy83Hu8Bc)
-- [Community Unveiled: Meeting the Secret Validators #4 Secret Nodes w/Ian (Puzzle)](https://www.youtube.com/watch?v=qiWYdicjCMY)
 <!-- YOUTUBE:END -->
 
 ---
