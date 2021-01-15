@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Front-running explained - How the Secret Network AMM solves the elusive DeFi Problem](https://www.youtube.com/watch?v=w8A-Thn28z0)
 - [Secret Network Ethereum Bridge Mining: Overview & Tutorial](https://www.youtube.com/watch?v=bNXU3Il7FMo)
 - [Royal Investment Fund interview w/Carter Woetzel on blockchain, the dollar, & cryptocurrency](https://www.youtube.com/watch?v=j1Pcc6aUYl0)
 - [Blockchain: How Does Staking Secure the Network & Why Are You Awarded For Staking? (PoS Explained)](https://www.youtube.com/watch?v=yNJGj3_1JTA)
 - [Community Unveiled: Meeting the Secret Validators #6 Citadel.One](https://www.youtube.com/watch?v=3h0WnS3ovzU)
-- [Community Unveiled:  Meeting the Secret Validators #5 Chain Of Secrets](https://www.youtube.com/watch?v=sRaSnqVlIJM)
 <!-- YOUTUBE:END -->
 
 ---
