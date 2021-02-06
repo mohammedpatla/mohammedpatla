@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Website Committee Structure & Feedback #1](https://www.youtube.com/watch?v=HPG8lpXtayY)
 - [secretSCRT vs SCRT Illustrated - a privacy preserving transaction vs a publicly visible transaction](https://www.youtube.com/watch?v=Vr02PKY12WI)
 - [Secret OTC - Secret Network's trustless, non-custodial, privacy preserving market for crypto-assets.](https://www.youtube.com/watch?v=rble3SWfbpI)
 - [Front-running explained - How the Secret Network AMM solves the elusive DeFi Problem](https://www.youtube.com/watch?v=w8A-Thn28z0)
 - [Secret Network Ethereum Bridge Mining: Overview & Tutorial](https://www.youtube.com/watch?v=bNXU3Il7FMo)
-- [Royal Investment Fund interview w/Carter Woetzel on blockchain, the dollar, & cryptocurrency](https://www.youtube.com/watch?v=j1Pcc6aUYl0)
 <!-- YOUTUBE:END -->
 
 ---
