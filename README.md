@@ -16,7 +16,7 @@
 <br />
 
 ### Donate
-starname.me/*mohammedpatla
+(https://starname.me/*mohammedpatla)[ATOM/SCRT/BTC]
 
 <br />
 
