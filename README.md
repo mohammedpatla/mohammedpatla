@@ -43,11 +43,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Secret Network - The Future Of Blockchain & Privacy](https://www.youtube.com/watch?v=kQF9d7X2rdw)
 - [Secret Network Wallets: How To Pick (Keplr, Citadel.One, MathWallet)](https://www.youtube.com/watch?v=OUZ14klpI4o)
 - [SecretSwap Example: From SCRT to sSCRT to sETH](https://www.youtube.com/watch?v=LUYAXKCwrI8)
 - [Website Committee Structure & Feedback #1](https://www.youtube.com/watch?v=HPG8lpXtayY)
 - [secretSCRT vs SCRT Illustrated - a privacy preserving transaction vs a publicly visible transaction](https://www.youtube.com/watch?v=Vr02PKY12WI)
-- [Secret OTC - Secret Network's trustless, non-custodial, privacy preserving market for crypto-assets.](https://www.youtube.com/watch?v=rble3SWfbpI)
 <!-- YOUTUBE:END -->
 
 ---
