@@ -39,11 +39,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Shade Protocol Weekly Q&A - What is Shade Protocol?](https://www.youtube.com/watch?v=c0fXq7BqyYk)
 - [Shade Protocol: Silk Reveal](https://www.youtube.com/watch?v=n2bg9yZqJeQ)
 - [Secret Network - The Future Of Blockchain & Privacy](https://www.youtube.com/watch?v=kQF9d7X2rdw)
 - [Secret Network Wallets: How To Pick (Keplr, Citadel.One, MathWallet)](https://www.youtube.com/watch?v=OUZ14klpI4o)
 - [SecretSwap Example: From SCRT to sSCRT to sETH](https://www.youtube.com/watch?v=LUYAXKCwrI8)
+- [Website Committee Structure & Feedback #1](https://www.youtube.com/watch?v=HPG8lpXtayY)
 <!-- YOUTUBE:END -->
 
 ---
