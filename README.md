@@ -39,11 +39,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Shade Protocol Weekly Q&A #6 - The Legal Landscape](https://www.youtube.com/watch?v=CpFD9iZ1JcE)
 - [Secrets: $10 Anthem](https://www.youtube.com/watch?v=UeYXAtcmdtY)
 - [Shade Protocol Weekly Q&A #5 - The Brand](https://www.youtube.com/watch?v=LKmRixOoc7U)
 - [Shade Protocol Weekly Q&A #4 - The DAO](https://www.youtube.com/watch?v=G8CIYpd7yOo)
 - [Shade Protocol Weekly Q&A #3 - The Dark Side of Totally Transparent Blockchains](https://www.youtube.com/watch?v=EXrVkfKB0vU)
+- [Shade Protocol Weekly Q&A #2 - Synthetics Reimagined](https://www.youtube.com/watch?v=snuGnVrhTEE)
 <!-- YOUTUBE:END -->
 
 ---
