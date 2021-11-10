@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![linkedin badge](https://img.shields.io/badge/@MohammedPatla-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammedpatla/)
+[![twitter badge](https://img.shields.io/badge/@mohammedpatla-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohammedpatla)
 
 <br />
 
