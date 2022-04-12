@@ -1,8 +1,8 @@
 ### Hi there, I'm Mohammed -  👋
 
-## I'm a Student, Developer, and Tech enthusiast!
+## Entreprenuer, Developer, and Tech enthusiast!
 - 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Build and push Shade Protocol to the next global stage.
 - ⚡ I am a Secret Agent @ [SecretNetwork](https://twitter.com/SecretNetwork)
 - 🌐 Blockchain is bootstrapping open-source
 
