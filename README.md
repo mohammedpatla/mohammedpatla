@@ -2,8 +2,7 @@
 
 ## Entreprenuer, Developer, and Tech enthusiast!
 - 🌱 I’m currently learning everything 
-- 🥅 2022 Goals: Build and push Shade Protocol to the next global stage.
-- ⚡ I am a Secret Agent @ [SecretNetwork](https://twitter.com/SecretNetwork)
+- 🥅 2023 Goals: Release SILK @ shadeprotocol.io.
 - 🌐 Blockchain is bootstrapping open-source
 
 ### Connect with me:
