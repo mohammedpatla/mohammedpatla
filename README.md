@@ -46,7 +46,7 @@
 
 ---
 
-<img align="left" alt="Mohammeds Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammedpatla&show_icons=true&hide_border=true" />
+<img align="left" alt="Mohammeds Github Stats" src="https://github-readme-stats-mauve-mu.vercel.app/api?username=mohammedpatla&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/mohammedpatla
 [twitter]: https://twitter.com/mohammedpatla
