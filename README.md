@@ -2,7 +2,7 @@
 
 ## Entreprenuer, Developer, and Tech enthusiast!
 - 🌱 I’m currently learning everything 
-- 🥅 2023 Goals: Release SILK @ shadeprotocol.io.
+- 🥅 2024 Goals: Take @ shadeprotocol.io to the next stage.
 - 🌐 Blockchain is bootstrapping open-source
 
 ### Connect with me:
