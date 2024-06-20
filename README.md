@@ -46,6 +46,8 @@
 
 ---
 
+<img align="left" alt="Mohammeds Github Stats" src="https://github-readme-stats-mauve-mu.vercel.app/api?username=mohammedpatla&show_icons=true&hide_border=true" />
+
 [website]: https://github.com/mohammedpatla
 [twitter]: https://twitter.com/mohammedpatla
 [youtube]: https://www.youtube.com/channel/UCItG0cq0YYJAOd5CHdZ2J6Q
