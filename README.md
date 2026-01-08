@@ -28,9 +28,7 @@
 
 <br />
 <br />
----
 
-[website]: https://github.com/mohammedpatla
 [twitter]: https://twitter.com/mohammedpatla
 [youtube]: https://www.youtube.com/channel/UCItG0cq0YYJAOd5CHdZ2J6Q
 [linkedin]: https://linkedin.com/in/mohammedpatla
