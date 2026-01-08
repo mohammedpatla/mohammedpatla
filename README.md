@@ -2,7 +2,7 @@
 
 ## Entreprenuer, Developer, and Tech enthusiast!
 - 🌱 I’m currently learning everything 
-- 🥅 2024 Goals: Take @ shadeprotocol.io to the next stage.
+- 🥅 2026 Goals: contribute to feather.zone, Grow my devops skills, learn a new language
 - 🌐 Blockchain is bootstrapping open-source
 
 ### Connect with me:
@@ -29,15 +29,6 @@
 <br />
 <br />
 ---
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Shade Protocol Weekly Q&amp;A #7 - Silk Basket Composition &amp; Peg Migration](https://www.youtube.com/watch?v=7ImnRXLIPV0)
-- [Shade Protocol AMA #6   The Legal Landscape](https://www.youtube.com/watch?v=jSIgOaXa_Xs)
-- [Secrets: $10 Anthem](https://www.youtube.com/watch?v=UeYXAtcmdtY)
-- [Shade Protocol Weekly Q&amp;A #5 - The Brand](https://www.youtube.com/watch?v=LKmRixOoc7U)
-- [Shade Protocol Weekly Q&amp;A #4 - The DAO](https://www.youtube.com/watch?v=G8CIYpd7yOo)
-<!-- YOUTUBE:END -->
 
 ---
 
